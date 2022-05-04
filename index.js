@@ -1,3 +1,3 @@
-var gimmeSum = function{
+var gimmeSum = function(){
     console.log(3+3);
 }
